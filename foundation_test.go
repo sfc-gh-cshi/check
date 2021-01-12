@@ -8,7 +8,7 @@ package check_test
 
 import (
 	"fmt"
-	"gopkg.in/check.v1"
+	"github.com/sfc-gh-cshi/check"
 	"log"
 	"os"
 	"regexp"
